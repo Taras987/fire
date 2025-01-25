@@ -1,0 +1,123 @@
+body {
+    font-family: sans-serif;
+    background: #d8cd39;
+    color: rgb(0, 0, 0);
+    margin:0px;
+}
+
+header {
+    display : flex;
+    justify-content:center;
+    background-color: rgb(128, 42, 42);
+    color: black;
+    font-family:fantasy;
+}
+
+.button {
+    
+}
+
+nav {
+    display:flex;
+    justify-content: space-around;
+    font-size: 20px;
+}
+
+.nav-link {
+    text-decoration: none;
+    display : flex;
+    justify-content: space-around;
+    background-color: rgb(162, 52, 52);
+    color: black;
+    margin:10px;
+    padding:10px;
+    border-radius: 10px;
+}
+
+h1 {
+    display:flex;
+    justify-content:center;
+    font-size:40px;
+    background-color:rgb(211, 71, 71);
+
+}
+
+p {
+    font-size: 20px;
+}
+
+.info {
+   
+}
+
+article {
+   
+}
+
+.article-but {
+    
+}
+
+footer {
+   
+}
+
+footer a {
+    
+}
+
+footer p {
+}
+
+header a {
+    font-size: 100px
+}
+
+h2 {
+    text-align:center;
+    background-color: rgb(180, 209, 77)
+}
+
+img {
+    justify-content:space-around;
+}
+
+.pic {
+    display:flex;
+    justify-content: center;
+}
+
+div {
+    display:flex;
+    justify-content:center;
+    font-size:20px;
+    font-family:sans-serif;
+    background-color:#d1c51e;
+    margin:30px;
+    padding:20px;
+    flex-direction: ;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+header a {
+    font-size: 70px;
+    margin:0px;
+    padding:10px;
+}
+
+.charger {
+    padding:10px;
+    margin:5px;
+    display:flex;
+    justify-content:center;
+    flex-direction:row-reverse;
+    flex-wrap:wrap;
+    width:450px;
+}
+
+div p {
+    text-align:center;
+}
